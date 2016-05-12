@@ -13,7 +13,7 @@ final static float final_len = 10;
 final static float stripe_alpha = 190;
 
 void setup() {
-  img = loadImage("kaspar.jpg");
+  img = loadImage("natalie.jpg");
   size(img.width, img.height);
 
   smooth(8);
