@@ -7,4 +7,19 @@ This repository was created to promote the works of our members. We will use the
 
 You can also share the code you used to create your works. This way you could help other members understand how you got to a specific result.
 
-Try to keep the size of the images around 784 x 250 px otherwise Facebook will crop it.
+When pushing to this repo, please try to use the folowing folder structure:
+
+```
+your_firstName_lastName
+  |
+  ├───projectNameFolder
+      |
+      ├───codeFolder
+          | codeDocument.file
+          ...
+      ├───imageFolder
+          | imageDocument.jpg
+          ...
+```    
+
+Try to keep the size of the images around 784 x 250 px otherwise Facebook will crop them.
