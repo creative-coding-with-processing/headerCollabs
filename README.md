@@ -11,7 +11,7 @@ When pushing to this repo, please try to use the folowing folder structure:
 
 ```
 your_firstName_lastName
-  |
+  |   hi.md
   ├───projectNameFolder
       |
       ├───codeFolder
@@ -21,5 +21,6 @@ your_firstName_lastName
           | imageDocument.jpg
           ...
 ```    
+In the __hi.md__ file you can add any details about you, like your full name, portfolio or any other links you consider important.
 
 Try to keep the size of the images around 784 x 250 px otherwise Facebook will crop them.
